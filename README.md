@@ -1,5 +1,7 @@
 # DIY 1.8" TFT Display Module
 
+Full Video Link:-https://youtu.be/EqtmMCGdx98?si=RJpkKWdWuCHYIAUG
+
 A compact **DIY 1.8-inch TFT Display Module** designed for easy integration with ESP32, ESP32-S3 and other 3.3V microcontrollers.
 
 The module uses a **16-pin, 0.5 mm pitch FPC interface** for the display and provides a simple **8-pin external interface**.
